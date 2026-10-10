@@ -13,4 +13,5 @@ HTML, JavaScript
 
 ## Öğrenci Bilgileri
 Ad Soyad: Boran Genç
+Okul Numarası: 260184003
 Ders: JavaScript Uygulamaları
